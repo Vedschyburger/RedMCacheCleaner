@@ -18,7 +18,7 @@
 # If folders are missing, a corresponding message is displayed.
 # If RedM is not installed on the C: hard disk, the path must be adjusted accordingly.
 # In addition, an .exe converter is added to the code to convert the code into an .exe.
-# You also need this program: https://winfuture.de/downloadvorschalt,4029.html
+# You also need this program to convert the script into an .exe. ->  https://winfuture.de/downloadvorschalt,4029.html
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Path to the folders to be deleted
