@@ -13,10 +13,10 @@
 # NO LIABILITY IS ACCEPTED FOR ANY DAMAGE OR LOSS OF DATA RESULTING FROM THE USE OF THIS CODE.
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # This PowerShell code deletes certain folders from the specified directory if they exist. 
-# It checks whether the folders “cache”, “server-cache” and “server-cache-priv” exist in the directory “C:\Users\Administrator\AppData\Local\FiveM\FiveM.app\data” and removes them together with their contents. 
-# To make the script work, you must enter the following in the path C:\Users\Administrator\AppData\Local\FiveM\FiveM.app\data enter your user instead of Administrator
+# It checks whether the folders “cache”, “server-cache” and “server-cache-priv” exist in the directory “C:\Users\vedsc\AppData\Local\FiveM\FiveM.app\data” and removes them together with their contents. 
+# To make the script work, you must enter the following in the path C:\Users\vedsc\AppData\Local\FiveM\FiveM.app\data enter your user instead of vedsc.
 # If folders are missing, a corresponding message is displayed.
-# If FiveM is not installed on the C: hard disk, the path must be adjusted accordingly.
+# If RedM is not installed on the C: hard disk, the path must be adjusted accordingly.
 # In addition, an .exe converter is added to the code to convert the code into an .exe.
 # --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
