@@ -1,5 +1,5 @@
 # RedMCacheCleaner
-This script automatically removes all cache folders (cache, server-cache, server-cache-privat) from the directory: C:\Users\vedsc\AppData\Local\RedM\RedM.app\data\
+This script automatically removes all cache folders (cache, server-cache, server-cache-privat) from the directory: C:\Users\vedsc\AppData\Local\RedM\RedM.app\data
 
 Important: 
 - The path must be adjusted accordingly. Instead of vedsc, replace it with your own username.
