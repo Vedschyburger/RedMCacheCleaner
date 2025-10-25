@@ -1,6 +1,6 @@
 #  PowerShell Script to Clear RedM Cache
 #  This script automatically removes outdated cache folders from RedM to free up disk space and help prevent potential issues.
-#  © Vedschyburger
+#  © Vedschyburger https://github.com/Vedschyburger/
 
 # Automatically use the correct user path
 $BasePath = Join-Path -Path $env:LOCALAPPDATA -ChildPath "RedM\RedM.app\data"
@@ -23,3 +23,4 @@ foreach ($Folder in $FolderList) {
         Write-Host "Folder not found: $FullPath"
     }
 }
+
