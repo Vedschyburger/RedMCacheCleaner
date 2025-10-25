@@ -12,7 +12,7 @@ Provides feedback in the console about which folders were deleted or not found.
 
 
 ▶️ How to use
-- Right-click the .ps1 file → Run with PowerShell
+- Left-click the RedMCacheCleaner.exe file → Run as .exe
 - The script will automatically delete the specified cache folders.
 
 ⚠️ Note
