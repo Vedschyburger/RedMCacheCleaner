@@ -1,6 +1,7 @@
 # 🔧 PowerShell Script to Clear RedM Cache
 
 This script automatically removes outdated cache folders from RedM to free up disk space and help prevent potential issues.
+German and English Version!
 
 🧾 What does the script do?
 - Locates your local RedM data path.
