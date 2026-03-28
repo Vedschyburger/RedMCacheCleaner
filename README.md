@@ -17,7 +17,8 @@ Provides feedback in the console about which folders were deleted or not found.
 
 ⚠️ Note
 The script permanently deletes cache files. 
-
-<img width="112" height="63" alt="image" src="https://github.com/user-attachments/assets/dc5ebe85-a986-4e67-95bc-9db9e0c90469" /> <img width="344" height="138" alt="image" src="https://github.com/user-attachments/assets/495fdea3-bb7a-4101-b76d-36980828ce58" /> <img width="108" height="110" alt="image" src="https://github.com/user-attachments/assets/27ed81e5-d2fd-4a27-bc9e-148e741ff44c" />
+<img width="628" height="415" alt="grafik" src="https://github.com/user-attachments/assets/eb223ada-42cb-4c91-8fdd-615bada6df5a" />
+<img width="119" height="74" alt="grafik" src="https://github.com/user-attachments/assets/7273d92a-eed7-4e3c-b904-727e219c2c1b" />
+<img width="108" height="110" alt="image" src="https://github.com/user-attachments/assets/27ed81e5-d2fd-4a27-bc9e-148e741ff44c" />
 
 
